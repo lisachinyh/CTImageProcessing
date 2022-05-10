@@ -1,4 +1,3 @@
-% Lisa Chin Yuen Han (A0187397H)
 clear
 clc
 
